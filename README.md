@@ -1,6 +1,7 @@
-- Hi, I’m @rodrigorenemenegazzo
-- I’m interested in use of Artificial Intelligence
-- I’m currently studying a Specialization in Applied Artificial Intelligence
+- @rodrigorenemenegazzo
+- Hi, I’m Rodrigo Rene Menegazzo graduated in Computer Science, MSc. in Bioinformatics.
+- I’m interested in use of Artificial Intelligence to solve complex problems.
+- I’m currently studying a Specialization in Applied Artificial Intelligence.
 - I’m looking to learn and collaborate with the community.
 <!--- - 📫 How to reach me: vdacpd@gmail.com  --->
 
